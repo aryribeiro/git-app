@@ -1,3 +1,6 @@
+Obs.: caso o app esteja no modo "sleeping" (dormindo) ao entrar, basta clicar no botão que estará disponível e aguardar, para ativar o mesmo. 
+![print](https://github.com/user-attachments/assets/ea05b856-39d0-4cce-94ca-f1be40fe1015)
+
 # 🔧 GitApp
 
 Uma aplicação web moderna e profissional desenvolvida em Python/Streamlit para navegar e consultar comandos Git com exemplos práticos.
